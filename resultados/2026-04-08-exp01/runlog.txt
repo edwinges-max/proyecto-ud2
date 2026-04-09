@@ -10,3 +10,4 @@ comparacion: coincide con expected_output
 resultado_test: OK
 tiempo: medido con Measure-Command
 repetible: si
+verificado: reproducibilidad confirmada
