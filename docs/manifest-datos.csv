@@ -1,0 +1,4 @@
+archivo,rol,origen,descripcion,restricciones
+datos-raw/test.txt,entrada,local,datos de prueba,ninguna
+scripts/procesar_datos.py,script,local,script principal,python3
+resultados/2026-04-08-exp01/salida.csv,salida,generado,resultado del procesamiento,ninguna

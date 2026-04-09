@@ -1,0 +1,12 @@
+fecha: 2026-04-08
+objetivo: ejecución inicial
+entradas: datos-raw/test.txt
+comando: python scripts/procesar_datos.py datos-raw/test.txt resultados/2026-04-08-exp01/salida.csv
+parametros: ninguno
+salidas: salida.csv
+observaciones: ejecución correcta
+commit: pendiente
+comparacion: coincide con expected_output
+resultado_test: OK
+tiempo: medido con Measure-Command
+repetible: si
