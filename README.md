@@ -23,3 +23,6 @@ Python 3
 
 ## Ejecución
 py scripts/procesar_datos.py datos-raw/test.txt resultados/2026-04-08-exp01/salida.csv
+
+## Reproducibilidad
+Ejecutar el script con los mismos datos produce el mismo resultado.
