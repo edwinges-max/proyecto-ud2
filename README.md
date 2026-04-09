@@ -1,5 +1,4 @@
-@"
-# proyecto-practica
+# proyecto-ud2
 
 ## Objetivo
 Proyecto reproducible y versionado para demostrar higiene de software en bioinformática.
@@ -17,11 +16,10 @@ Proyecto reproducible y versionado para demostrar higiene de software en bioinfo
 datos-raw/test.txt
 
 ## Salidas
-resultados/<fecha>-exp01/salida.csv
+resultados/2026-04-08-exp01/salida.csv
 
 ## Dependencias
 Python 3
 
 ## Ejecución
-python scripts/procesar_datos.py datos-raw/test.txt resultados/2026-04-08-exp01/salida.csv
-"@ | Set-Content README.md
+py scripts/procesar_datos.py datos-raw/test.txt resultados/2026-04-08-exp01/salida.csv

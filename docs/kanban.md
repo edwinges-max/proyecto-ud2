@@ -1,11 +1,13 @@
 # Kanban Proyecto
 
 ## Pendiente
-- Medición de tiempo
-- Comparación expected output
+- Ninguna
 
 ## En curso
-- Documentación README
+- Ninguna
+
+## Bloqueado
+- Ninguno
 
 ## Hecho
 - Crear estructura del proyecto
@@ -14,3 +16,6 @@
 - Crear manifest
 - Crear runlog
 - Versionado Git
+- Comparación expected output
+- Medición de tiempo
+- Documentación README
