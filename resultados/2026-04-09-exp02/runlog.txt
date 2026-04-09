@@ -1,0 +1,5 @@
+fecha: 2026-04-09
+experimento: exp02
+entrada: datos-raw/test.txt
+salida: resultados/2026-04-09-exp02/salida.csv
+observacion: segunda ejecución para validar reproducibilidad
