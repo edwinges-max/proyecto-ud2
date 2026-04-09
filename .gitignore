@@ -1,0 +1,17 @@
+# Entorno virtual
+entorno/
+
+# Archivos temporales
+*.tmp
+*.log
+
+# Python
+__pycache__/
+*.pyc
+
+# Datos grandes (no subir)
+datos-intermedios/
+
+# Sistema
+.DS_Store
+Thumbs.db
